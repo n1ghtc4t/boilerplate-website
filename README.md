@@ -1,2 +1,2 @@
-# html-references
-referencing my html &amp; css code
+## boilerplate-website
+This is an extremely basic (boilerplate) website with no styling
